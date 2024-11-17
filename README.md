@@ -34,4 +34,7 @@
 ### Результат
 https://colab.research.google.com/drive/1SNgyVVbomERk4JZcXWVCzXPZ2wCisgvv?usp=sharing
 
+
+
+
 ### Выводы
