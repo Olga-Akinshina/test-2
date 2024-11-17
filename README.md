@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Olga-Akinshina/test-2/edit/main/README.md#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Olga-Akinshina/test-2/edit/main/README.md#какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Olga-Akinshina/test-2/edit/main/README.md#краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Olga-Akinshina/test-2/edit/main/README.md#этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Olga-Akinshina/test-2/edit/main/README.md#результат)  
-[6. Выводы](https://github.com/Olga-Akinshina/test-2/edit/main/README.md#выводы)  
+[1. Описание проекта]([https://github.com/Olga-Akinshina/test-2?tab=readme-ov-file#описание-проекта])  
+[2. Какой кейс решаем?](https://github.com/Olga-Akinshina/test-2?tab=readme-ov-file#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Olga-Akinshina/test-2?tab=readme-ov-file#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Olga-Akinshina/test-2?tab=readme-ov-file#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Olga-Akinshina/test-2?tab=readme-ov-file#результат)  
+[6. Выводы](https://github.com/Olga-Akinshina/test-2?tab=readme-ov-file.md#выводы)  
 
 ### Описание проекта
 Угадать загаданное компьютером число менее чем за 20 попыток.
 
-:arrow_up: [к оглавлению](https://github.com/Olga-Akinshina/test-2/edit/main/README.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/Olga-Akinshina/test-2?tab=readme-ov-file#оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число менее чем за 20 попыток
